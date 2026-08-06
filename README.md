@@ -12,7 +12,6 @@
   <a href="https://mysthiru.github.io"><img src="https://img.shields.io/badge/🏠_Website-玄明の工房-6C5CE7?style=for-the-badge" /></a>
   <a href="https://github.com/MystHiru"><img src="https://img.shields.io/badge/GitHub-MystHiru-181717?style=for-the-badge&logo=github" /></a>
   <a href="https://t.me/MystHiru"><img src="https://img.shields.io/badge/Telegram-💬_Chat-26A5E4?style=for-the-badge&logo=telegram" /></a>
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMystHiru&query=%24.followers&label=👥%20Followers&color=6C5CE7&style=for-the-badge" />
 </p>
 
 ---
@@ -40,20 +39,6 @@
 - 💭 **梦想** —— 有一天能做出真正属于自己的东西
 
 > 「我不是不会写代码，只是 AI 写得比我快 ✨」
-
-</td>
-<td width="45%" align="center">
-
-```ascii
-     ╭─────────────────╮
-     │   🔮 玄明       │
-     │   ═══════════    │
-     │   💭 夢を見てる   │
-     │   💻 AI依存症    │
-     │   🎵 音楽中毒    │
-     │   📺 追番習慣    │
-     ╰─────────────────╯
-```
 
 </td>
 </tr>
