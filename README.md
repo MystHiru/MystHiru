@@ -8,7 +8,7 @@
   <a href="https://mysthiru.github.io"><img src="https://img.shields.io/badge/🏠_Website-玄明の工房-6C5CE7?style=for-the-badge" /></a>
   <a href="https://github.com/MystHiru"><img src="https://img.shields.io/badge/GitHub-MystHiru-181717?style=for-the-badge&logo=github" /></a>
   <a href="https://t.me/MystHiru"><img src="https://img.shields.io/badge/Telegram-💬_Chat-26A5E4?style=for-the-badge&logo=telegram" /></a>
-  <img src="https://img.shields.io/badge/👀_Visitors-4-6C5CE7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMystHiru&query=%24.followers&label=👥%20Followers&color=6C5CE7&style=for-the-badge" />
 </p>
 
 ---
@@ -93,7 +93,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MystHiru&theme=2077" alt="Profile Summary" />
+  <sub>📊 实时数据来自 GitHub API · 自动更新</sub>
 </p>
 
 ---
@@ -105,16 +105,6 @@
     <img src="https://img.shields.io/badge/🎧_Click_me_to_see_my_playlist-6C5CE7?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
 </p>
-
----
-
-## 📅 最近活动
-
-<details>
-<summary>📌 点击展开</summary>
-
-*活动自动更新中...*
-</details>
 
 ---
 
