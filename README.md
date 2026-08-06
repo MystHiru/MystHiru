@@ -1,11 +1,11 @@
 # 🔮 玄明の小さな工房
 
 <p align="center">
-  <img src="https://github.com/MystHiru/MystHiru/blob/main/img/caiye.png?raw=true" width="280" alt="caiye" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+SC&weight=600&size=26&duration=3000&pause=500&color=6C5CE7&center=true&vCenter=true&width=500&lines=💭+在コードと夢の隙間を彷徨う;💜+AI+重度依存症のエンジニア;🌸+追番・音楽・コードが日常;✨+いつか僕も、何かを創りたい" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+SC&weight=600&size=26&duration=3000&pause=500&color=6C5CE7&center=true&vCenter=true&width=500&lines=💭+在コードと夢の隙間を彷徨う;💜+AI+重度依存症のエンジニア;🌸+追番・音楽・コードが日常;✨+いつか僕も、何かを創りたい" alt="Typing SVG" />
+  <img src="https://github.com/MystHiru/MystHiru/blob/main/img/caiye.png?raw=true" width="120" alt="caiye" />
 </p>
 
 <p align="center">
@@ -25,13 +25,7 @@
 
 ## 🦋 About Me
 
-<p align="center">
-  <b>コードを愛する、AI に依存しているエンジニア</b> 💻
-</p>
-
-<table>
-<tr>
-<td width="55%">
+**コードを愛する、AI に依存しているエンジニア** 💻
 
 - 🎯 **AI 重度依赖** —— 比起自己写，更喜欢让 AI 帮我写，然后自己改（笑）
 - 🎵 **音乐** —— 耳机不离身，歌单里什么都有
@@ -39,10 +33,6 @@
 - 💭 **梦想** —— 有一天能做出真正属于自己的东西
 
 > 「我不是不会写代码，只是 AI 写得比我快 ✨」
-
-</td>
-</tr>
-</table>
 
 ---
 
