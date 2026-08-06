@@ -11,7 +11,6 @@
 <p align="center">
   <a href="https://mysthiru.github.io"><img src="https://img.shields.io/badge/🏠_Website-玄明の工房-6C5CE7?style=for-the-badge" /></a>
   <a href="https://github.com/MystHiru"><img src="https://img.shields.io/badge/GitHub-MystHiru-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://t.me/MystHiru"><img src="https://img.shields.io/badge/Telegram-💬_Chat-26A5E4?style=for-the-badge&logo=telegram" /></a>
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMystHiru&query=%24.followers&label=👥%20Followers&color=6C5CE7&style=for-the-badge" />
 </p>
 
@@ -69,29 +68,6 @@
 
 <p align="center">
   📺 杂食系观众 · 什么都看 · 欢迎推荐！
-</p>
-
----
-
-## 🎯 2026 Goals
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🌟_Open_Source_Project-6C5CE7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🎮_Game_Dev-6C5CE7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🤖_AI_Deep_Dive-6C5CE7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📖_Read_More-6C5CE7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🎌_Japan_Trip-6C5CE7?style=for-the-badge" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMystHiru&query=%24.public_repos&label=📦%20Repos&color=6C5CE7&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMystHiru&query=%24.followers&label=👥%20Followers&color=6C5CE7&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMystHiru&query=%24.following&label=🔗%20Following&color=6C5CE7&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/MystHiru?style=for-the-badge&color=6C5CE7&label=⭐%20Stars" />
 </p>
 
 ---
