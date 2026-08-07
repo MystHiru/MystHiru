@@ -4,7 +4,10 @@
 
 <sub>把灵感拆成代码，再把代码装回日常。</sub>
 
-[个人网站](https://mysthiru.github.io)　·　[Telegram](https://t.me/MystHiru)
+<br>
+
+<a href="https://mysthiru.github.io"><img src="https://img.shields.io/badge/个人网站-玄明-9d7bff?style=flat-square&labelColor=1a1a2e" alt="个人网站"></a>
+<a href="https://t.me/MystHiru"><img src="https://img.shields.io/badge/Telegram-MystHiru-ffc2d3?style=flat-square&labelColor=1a1a2e" alt="Telegram"></a>
 
 </div>
 
