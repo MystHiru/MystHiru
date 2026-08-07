@@ -4,7 +4,7 @@
 
 <sub>把灵感拆成代码，再把代码装回日常。</sub>
 
-[个人网站](https://mysthiru.github.io)　·　[收藏库](https://mysthiru.github.io/gallery.html)　·　[Telegram](https://t.me/MystHiru)
+[个人网站](https://mysthiru.github.io)　·　[Telegram](https://t.me/MystHiru)
 
 </div>
 
@@ -31,7 +31,7 @@
 ### 正在维护
 
 - **[Action-Build-Myst](https://github.com/MystHiru/Action-Build-Myst)** — 基于 GitHub Actions 的 Android 内核构建流程
-- **[mysthiru.github.io](https://github.com/MystHiru/mysthiru.github.io)** — 个人网站、收藏库与轻量内容管理面板
+- **[mysthiru.github.io](https://github.com/MystHiru/mysthiru.github.io)** — 个人网站与轻量内容管理面板
 
 > 先把想法做出来，再决定它应该长成什么样。
 
