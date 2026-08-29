@@ -31,11 +31,6 @@
 
 `新番与角色`　`通勤与深夜歌单`　`Android / 自动化`　`AI 辅助开发`
 
-### 正在维护
-
-- **[Action-Build-Myst](https://github.com/MystHiru/Action-Build-Myst)** — 基于 GitHub Actions 的 Android 内核构建流程
-- **[mysthiru.github.io](https://github.com/MystHiru/mysthiru.github.io)** — 个人网站与轻量内容管理面板
-
 > 先把想法做出来，再决定它应该长成什么样。
 
 <br>
