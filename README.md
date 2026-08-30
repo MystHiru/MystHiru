@@ -14,7 +14,7 @@
 
 <br>
 
-<img align="right" src="./img/character.webp" width="150" style="max-width:100%" alt="玄明的角色插画" />
+<img src="./img/character.webp" width="150" style="float:right;margin:0 0 12px 16px;max-width:100%" alt="玄明的角色插画" />
 
 ### 你好，这里是玄明
 
