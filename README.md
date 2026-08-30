@@ -1,8 +1,8 @@
-<div align="center">
+<div style="text-align:center">
 
 # 玄明 · MystHiru
 
-<sub>把灵感拆成代码，再把代码装回日常。</sub>
+<p style="font-size:1em;color:#8b8b9e;margin:0">把灵感拆成代码，再把代码装回日常。</p>
 
 <br>
 
@@ -13,7 +13,7 @@
 
 <br>
 
-<img align="right" src="./img/character.png" width="150" alt="角色插画" />
+<img align="right" src="./img/character.webp" width="150" style="max-width:100%" alt="玄明的角色插画" />
 
 ### 你好，这里是玄明
 
@@ -23,7 +23,7 @@
 
 比起把主页塞满标签，我更想留下几件真正做过、也愿意继续维护的东西。
 
-<br clear="right" />
+<div style="clear:right"></div>
 
 ---
 
@@ -35,4 +35,4 @@
 
 <br>
 
-<div align="center"><sub>更新得不快，但每一行都算数。</sub></div>
+<div style="text-align:center"><p style="font-size:0.9em;color:#8b8b9e;margin:0">更新得不快，但每一行都算数。</p></div>
