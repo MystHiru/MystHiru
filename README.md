@@ -7,6 +7,7 @@
 <br>
 
 <a href="https://mysthiru.github.io"><img src="https://img.shields.io/badge/个人网站-玄明-9d7bff?style=flat-square&labelColor=1a1a2e" alt="个人网站"></a>
+<a href="https://github.com/MystHiru"><img src="https://img.shields.io/badge/GitHub-MystHiru-8a8a8a?style=flat-square&labelColor=1a1a2e" alt="GitHub"></a>
 <a href="https://t.me/MystHiru"><img src="https://img.shields.io/badge/Telegram-MystHiru-ffc2d3?style=flat-square&labelColor=1a1a2e" alt="Telegram"></a>
 
 </div>
@@ -27,12 +28,20 @@
 
 ---
 
+### 最近项目
+
+- **[Action-Build-Myst](https://github.com/MystHiru/Action-Build-Myst)** — 基于 GitHub Actions 的 Android 内核自动构建工具
+- **[MystHiru.github.io](https://github.com/MystHiru/mysthiru.github.io)** — 个人网站，记录日常、项目、收藏与随笔
+
+---
+
 ### 最近关注
 
-`新番与角色`　`通勤与深夜歌单`　`Android / 自动化`　`AI 辅助开发`
+`新番与角色` `通勤与深夜歌单` `Android / 自动化` `AI 辅助开发`
 
 > 先把想法做出来，再决定它应该长成什么样。
 
 <br>
 
 <div style="text-align:center"><p style="font-size:0.9em;color:#8b8b9e;margin:0">更新得不快，但每一行都算数。</p></div>
+
